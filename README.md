@@ -1,10 +1,13 @@
 # 👋 สวัสดีครับ! ผม Voravit 
+---
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31xds24ensajnwd4tap33gsyn5qm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31xds24ensajnwd4tap33gsyn5qm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 
 ---
 
 ## 🧑‍💻 เกี่ยวกับผม
 
-สวัสดีครับ! ผมชื่อ **Voravit** นักเรียนชั้นม.3 อายุ 15 ปี
+สวัสดีครับ! ผมชื่อ **Voravit**
 
 ## 📈 GitHub Stats
 
